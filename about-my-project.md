@@ -1,15 +1,15 @@
 ## About My Project
 
-mBot Neo
+EmotiGen
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
+Problem: Generative AI algoriths have issues understanding and responding to diverse users because of a lack of training. 
 
-Approach: During this project, I will assist a team in designing a system that accomplishes the following:
+Approach: During this project, I will assist a team in designing prompts that will accomplish the following:
 
-  - Capture physiological data such as EEG and EMG from the human body.
-  - Process raw sensor data and classify events such as gestures (e.g., arm movements) and emotional states (e.g., attention levels)
-  - Map output from physiological sensors to a physical robot. 
+  - Have the program understand the users language (in this case, African American Vernacular English).
+  - Process and understand the users emotion based on its understanding of their language.
+  - Recieve an output that properly responds to the users emotions. 
 
-Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
+Expected Outcome: The project is expected to result in an app that can understand and respond to the users emotions by either affirming positive feelings or motivating those with negative emotions.
 
 

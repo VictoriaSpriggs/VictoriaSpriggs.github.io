@@ -1,5 +1,6 @@
 ## About Me
-I am an incoming Sophomore at Morgan State University, pursuing a Bachelor's Degree in Computer Science, with a minor in Mathematics. My expected graduation date is in 2027
+I am an undergraduate student at Morgan State University pursuing a B.S. in Computer Science and Mathematics. With a strong interest in the intersection between ethics and artificial intelligence, my goal is to leverage technology for social good.
+
 
 [Linkedin Profile](https://www.linkedin.com/in/victoria-spriggs-146857225/)
 
